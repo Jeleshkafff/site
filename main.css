@@ -1,0 +1,164 @@
+body {
+    background-color: #fff2db;
+   }
+.h1 {
+    background-color: #ffa1f6;
+    width: 227px;
+    height: 208px;
+    position: absolute;
+    left: 27px;
+    top: 23px;
+}
+.btn {
+    position: absolute;
+    width: 227px;
+    height: 28px;
+    left: 27px;
+    top: 255px;
+}
+.prob{
+    position: absolute;
+width: 239px;
+height: 30px;
+left: 681px;
+top: 25px;
+background-color: #180052;
+color:  #fff2db;
+}
+.prob1{
+    position: absolute;
+    width: 47px;
+height: 42px;
+left: 681px;
+top: 85px;
+    background-color: crimson;
+}
+.btn1{
+    position: absolute;
+    width: 211px;
+    height: 32px;
+    left: 351px;
+    top: 23px;
+    background-color:rgb(255, 177, 232)
+}
+.input{
+    position: absolute;
+    width: 211px;
+    height: 44px;
+    left: 351px;
+    top: 154px;
+}
+.btn2{
+    position: absolute;
+width: 211px;
+height: 28px;
+left: 351px;
+top: 255px;
+
+}
+.input1{
+    position: absolute;
+    width: 166px;
+    height: 41px;
+    left: 970px;
+    top: 25px;
+    background-color: #180052;
+    color:  bisque;
+}
+.input2{
+    position: absolute;
+    width: 166px;
+    height: 41px;
+    left: 970px;
+    top: 102px;
+    background-color: #180052;
+    color:  bisque;
+}
+.btn3{
+    position: absolute;
+width: 119px;
+height: 50px;
+left: 1158px;
+top: 55px;
+}
+.btn4{
+    position: absolute;
+    width: 58px;
+    height: 53px;
+    left: 34px;
+    top: 621px;
+    
+}
+.btn5{
+    position: absolute;
+    width: 58px;
+    height: 53px;
+    left: 196px;
+    top: 621px;
+      
+}
+.input3{
+    position: absolute;
+    width: 220px;
+    height: 39px;
+    left: 34px;
+    top: 548px;
+    background-color: #180052;
+    color:  bisque;
+}
+.h3{
+    position: absolute;
+width: 227px;
+height: 208px;
+left: 693px;
+top: 438px;
+background-color: #180052;
+}
+.h2{
+    position: absolute;
+width: 211px;
+height: 208px;
+left: 351px;
+top: 408px;
+background-color: #3700b6;
+}
+.btn6{
+    position: absolute;
+width: 211px;
+height: 28px;
+left: 351px;
+top: 646px;
+background-color: #86d3ff;
+}
+.k1{
+    position: absolute;
+    width: 87px;
+    height: 78px;
+    left: 1071px;
+    top: 434px;
+    background-color: #86ffc2;
+}
+.k2{
+    position: absolute;
+    width: 87px;
+    height: 78px;
+    left: 1174px;
+    top: 434px; 
+    background-color: #86ffc2;
+}
+.k3{
+    position: absolute;
+width: 87px;
+height: 78px;
+left: 1071px;
+top: 529px;
+background-color: #86ffc2;
+}
+.k4{
+    position: absolute;
+    width: 87px;
+    height: 78px;
+    left: 1174px;
+    top: 529px; 
+    background-color: #86ffc2;
+}
